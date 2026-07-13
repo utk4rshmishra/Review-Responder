@@ -1,10 +1,4 @@
 # Review-Responder
-An AI-powered SaaS tool built with Python, Streamlit, and Groq that helps small business owners instantly generate professional, vibe-checked replies to customer reviews.
-
-
-
-
-
 # ⭐ Mom & Pop Review Responder
 
 > **Turn angry customers into loyal fans with one click.**
